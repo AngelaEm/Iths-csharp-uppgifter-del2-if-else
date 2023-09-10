@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iths c sharp uppgifter del 2 if else", "Iths c sharp uppgifter del 2 if else\Iths c sharp uppgifter del 2 if else.csproj", "{961C6C18-D463-49F7-88D8-05EC7063B5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961C6C18-D463-49F7-88D8-05EC7063B5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961C6C18-D463-49F7-88D8-05EC7063B5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961C6C18-D463-49F7-88D8-05EC7063B5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961C6C18-D463-49F7-88D8-05EC7063B5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80BB9D7F-7A99-4983-AC6B-225FE4A290D2}
+	EndGlobalSection
+EndGlobal
